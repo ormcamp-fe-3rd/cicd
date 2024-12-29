@@ -1,5 +1,8 @@
 # CI/CD
 
+![cd workflow](https://github.com/ormcamp-fe-3rd/cicd/actions/workflows/github-actions-cd.yml/badge.svg?branch=main)
+![ci workflow](https://github.com/ormcamp-fe-3rd/cicd/actions/workflows/github-actions-ci.yml/badge.svg)
+
 ## GitHub actions 테스트
 
 1. repository 클론
